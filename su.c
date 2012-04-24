@@ -41,6 +41,7 @@
 
 #include <sqlite3.h>
 
+#include "su.h"
 
 //extern char* _mktemp(char*); /* mktemp doesn't link right.  Don't ask me why. */
 
